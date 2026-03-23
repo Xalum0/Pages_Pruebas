@@ -1,2 +1,2 @@
 # Pages_Pruebas
-Pruebas sobre el us de Pages
+Pruebas sobre el uso de Pages
